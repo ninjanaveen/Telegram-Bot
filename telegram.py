@@ -7,7 +7,7 @@ import os
 from bs4 import BeautifulSoup as bs
 downurl = 'http://www.youtubeinmp3.com/fetch/?format=JSON&video='
 xmlurl ='http://www.youtubeinmp3.com/fetch/?format=XML&video='
-token = '383625898:AAFum_jTIg-ynl9Ni-2h2BdptlDTTXXsmOc'
+token = '1374225274:AAGYxHW7nU9Oerqz4bwf6dMnRquFsBmrVFc'
 youquery = 'https://www.youtube.com/results?search_query='
 yourl='http://www.youtube.com'
 
